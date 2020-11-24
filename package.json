@@ -1,5 +1,5 @@
 {
-  "name": "ltsn-test",
+  "name": "first-pkg-ltsn",
   "version": "1.0.0",
   "description": "publish package test",
   "main": "index.js",
