@@ -1,6 +1,7 @@
 const axios = require('axios')
 const compareVersions = require('compare-versions')
 const color = require('cli-color')
+const terminalLink = require('terminal-link')
 
 module.exports = async (v) => {
   // 拿到所有的 Node 版本
